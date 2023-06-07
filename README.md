@@ -1,4 +1,4 @@
-# 1.Weath-App
+# 1.Weather-App
 Aplicación para saber el clima de cualquier parte del mundo.
 
 (en desarrollo...)
